@@ -1,0 +1,48 @@
+table{
+    border: 2px solid black;
+    margin: 2 auto;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+table thead{
+    background: rgb(66, 126, 143);
+    height: 40px;
+    border-radius: 5px;
+    text-shadow: 2px 2px 5px rgb(100, 100, 100);
+    color: white;
+}
+
+table tr td {
+    font-size: 20;
+    padding: 7px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    border-radius: 5px;
+    
+}
+
+td#Row1 {
+    font-size: 20;
+    text-align: center;
+    background-color:rgb(106, 194, 106)
+}
+td#Row2 {
+    font-size: 20;
+    text-align: center;
+    background-color:rgb(240, 182, 75)
+}
+td#Row3 {
+    font-size: 20;
+    text-align: center;
+    background-color:rgb(224, 54, 54)
+}
+.table-title {
+    text-align: center;
+    font-size: 20;
+}
